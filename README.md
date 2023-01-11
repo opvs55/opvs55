@@ -1,6 +1,6 @@
 <h1 align="left" >Olar!! Meu nome é Samuel Muniz, mas pode me chamar de Opvs!  </h1>
 <br>
-<img align="center" width="350px" height="550px" src="https://github.com/opvs55/opvs55/blob/main/lucky-star-anime.gif?raw=true"/>
+<img align="center" src="https://github.com/opvs55/opvs55/blob/main/lucky-star-anime.gif?raw=true"/>
 
 <a href="#" align="left" width="200px"> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p>
 
