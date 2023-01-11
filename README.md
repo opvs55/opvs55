@@ -2,14 +2,14 @@
 <br>
 <img align="center" src="https://github.com/opvs55/opvs55/blob/main/lucky-star-anime.gif?raw=true"/>
 
-<a href="#" align="center" width="200px"> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p>
+<a href="#" align="center" width="200px"> <p> Atualmente estou estudando no Bootcamp Labenu full stack 🖥️🖥️🖥️ 🤓 </p><p>I am currently studying at Labenu full stack Bootcamp. 🖥️🖥️🖥️ 🤓 </p>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /></a>
 
 <br>
 
-## Techs 
+---->>>>> Techs 
 
 <div>
 <img align="center"  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
