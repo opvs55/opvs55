@@ -1,8 +1,8 @@
-<h1 align="left" color="red" >Olar!! Sou Samuel Muniz, mas pode me chamar de Opvs! </h1>
+<h1 align="center">Olar!! Sou Samuel Muniz, mas pode me chamar de Opvs! </h1>
 <br>
 <img align="center" src="https://github.com/opvs55/opvs55/blob/main/lucky-star-anime.gif?raw=true"/>
 
-<a href="#" align="left" width="200px"> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p>
+<a href="#" align="center" width="200px"> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /></a>
