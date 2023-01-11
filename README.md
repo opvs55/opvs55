@@ -1,4 +1,4 @@
-<h1 align="center">Olar!! Sou Samuel Muniz, mas pode me chamar de Opvs! :3 </h1>
+<h1 align="center">Sou Samuel Muniz, mas pode me chamar de [Opvs]! :3 </h1>
 <br>
 <img align="center" src="https://github.com/opvs55/opvs55/blob/main/lucky-star-anime.gif?raw=true"/>
 
