@@ -4,7 +4,7 @@
 
 <a href="#" align="left" width="20vw"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p></a>
 
-<img align="left" width="50px" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+<img align="left" width="200px" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
 
 
 
