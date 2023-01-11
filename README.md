@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/opvs55/opvs55/b34091a054c947d4748bd0287f4d794f1262c34f/ezgif-3-4eb0718a5d.gif"/>
+<img align="right" src="https://github.com/opvs55/opvs55/blob/main/tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif?raw=true"/>
 
 <a href="#" align="left" width="20vw"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /></a>
 
