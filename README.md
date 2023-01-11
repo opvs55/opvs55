@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /></a>
+
+
+
+
+
+
 <!--
 **opvs55/opvs55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
