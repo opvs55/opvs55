@@ -5,7 +5,6 @@
 <a href="#" align="left" width="20vw"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /></a>
 
 
-https://github.com/opvs55/opvs55/blob/main/tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif
 
 
 <!--
