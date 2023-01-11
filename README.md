@@ -4,9 +4,13 @@
 
 <a href="#" align="left" width="20vw"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p></a>
 
-<p><img align="center" mw="200px" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></p>
-<p><img align="center" mw="200px" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></p>
-<p><img align="center" mw="200px" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></p>
+<img align="center"  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+<img align="center"  src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+<img align="center"  src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img align="center"  src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
+<img align="center"  src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+<img align="center"  src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+<img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 
 
