@@ -2,7 +2,7 @@
 
 <img align="right" width="350px" height="550px" src="https://github.com/opvs55/opvs55/blob/main/tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif?raw=true"/>
 
-<a href="#" align="left" width="15vw"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p></a>
+<a href="#" align="left" width="200px"><img src="https://github-readme-stats.vercel.app/api?username=opvs55&show_icons=true" /> <p> Atualmente estou estudando no Bootcamp Labenu full stack</p><p>I am currently studying at Labenu full stack Bootcamp.</p></a>
 
 
 ## Techs 
