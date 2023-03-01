@@ -19,6 +19,8 @@
 <img align="center"  src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 <img align="center"  src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
 <img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<img align="center"  src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
+<img align="center"  src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router"/>
 </div>
 
 
