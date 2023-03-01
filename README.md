@@ -9,20 +9,39 @@
 
 <br>
 
----->>>>> Techs 
+<h2>Techs</h2>
 
 <div>
 <img align="center"  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
 <img align="center"  src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
 <img align="center"  src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-<img align="center"  src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
 <img align="center"  src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 <img align="center"  src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-<img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-
-
+  
+ <br>
+  
+<img align="center"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="center"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="center"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img align="center"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center"  src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-<img align="center"  src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router"/>
+<img align="center"  src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="center"  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img align="center"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="center"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img align="center"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
 </div>
 
 
