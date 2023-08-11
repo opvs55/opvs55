@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Muniz</h1>
-<h3 align="center">Desenvolvo aplicações Front-End e Back-End</h3>
+<h1 align="center">Hi 👋, I'm Opvs Magnvm </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opvs55&label=Profile%20views&color=0e75b6&style=flat" alt="opvs55" /> </p>
 
