@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Opvs Magnvm</h1>
-  <p><b>Maker | Full-Stack Developer | Educator</b></p>
+  <p><b>Maker | Educator</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=opvs55&label=Profile%20views&color=0e75b6&style=flat-square" alt="opvs55" />
   <img src="https://github-profile-trophy.vercel.app/?username=opvs55&theme=onedark&column=4" alt="trophies" />
